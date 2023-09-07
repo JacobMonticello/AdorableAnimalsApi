@@ -1,1 +1,1 @@
-- Don't use TS-Node in productions
+- Don't use TS-Node in production
